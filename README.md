@@ -7,7 +7,7 @@ The project purpose is recreate the Instagram login page
 
 All features and effects were made using only HTML & CSS.
 
-echnologies:
+Technologies:
 🔸 HTML5
 
 🔹 CSS3
