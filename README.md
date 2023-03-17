@@ -14,5 +14,5 @@ Technologies:
 
 Status: Done ✔️
 
-License
+License :
 InstagramLogin is available under the MIT license. See the LICENSE file for more info.
